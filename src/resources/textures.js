@@ -49,7 +49,7 @@ URL.terpsolutions = 'https://velog.io/@kys/%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%84-
 // terp > zoo topic
 URL.bagholderBets = 'https://velog.io/@kys/%EC%96%BC%EA%B5%B4-%EB%AA%AC%EC%8A%A4%ED%84%B0';
 // > bagholder Bets >  poke face
-URL.homeSweetHomeURL = '';
+URL.homeSweetHomeURL = 'https://velog.io/@kys/%EA%B0%84%EC%82%AC%EC%9D%B4-%EA%B3%B5%ED%95%AD-%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E3%80%80%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88';
 // > kansai <予定
 URL.gitHub = 'https://github.com/KYSgh';
 URL.twitter = 'https://velog.io/@kys/posts';
