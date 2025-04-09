@@ -47,7 +47,7 @@ let boxTexture = {
 // Material textures
 let stoneTexture = 'src/jsm/stone.png';
 let woodTexture = 'src/jsm/woodTexture.jpg';
-
+//텍스트 사진 추가합시다다
 // Text content
 let inputText = {
   terpSolutionsText: 'src/jsm/terp-solutions-text.png',
@@ -63,18 +63,18 @@ let inputText = {
 let SVG = {
   reactLogo: 'src/jsm/react-svg.svg'
 };
-
+　
 // URLs
 let URL = {
   terpsolutions: 'https://velog.io/@kys/%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%89%B4%EC%8A%A4-%EA%B5%AC%EB%8F%85-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EC%9E%91',
   bagholderBets: 'https://velog.io/@kys/%EC%96%BC%EA%B5%B4-%EB%AA%AC%EC%8A%A4%ED%84%B0',
-  homeSweetHomeURL: '',
+  homeSweetHomeURL: 'https://velog.io/@kys/%EA%B0%84%EC%82%AC%EC%9D%B4-%EA%B3%B5%ED%95%AD-%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E3%80%80%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88',
   gitHub: 'https://github.com/KYSgh',
   twitter: 'https://velog.io/@kys/posts',
   email: 'https://mailto:xfloyd.eth@gmail.com',
   githubBagholder: 'https://velog.io/@kys/%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-CICD',
   LinkedIn: 'https://www.linkedin.com/in/ys-k-38242831a/',
-  githubHomeSweetHome: ''
+  githubHomeSweetHome: 'https://velog.io/@kys/%EA%B0%84%EC%82%AC%EC%9D%B4-%EA%B3%B5%ED%95%AD-%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E3%80%80%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88'
 };
 
 

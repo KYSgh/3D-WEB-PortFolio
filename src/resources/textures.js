@@ -34,7 +34,7 @@ inputText.certification = 'src/jsm/certification.png';
 inputText.redhat = 'src/jsm/redhat.png';
 inputText.bagholderBetsText = 'src/jsm/bagholderbets-text.png';
 // > bagholder Bets >  poke face
-inputText.homeSweetHomeText = 'src/jsm/text.png';
+inputText.homeSweetHomeText = 'src/jsm/kansaitext.png';
 // > kansai <予定
 
 inputText.staticPortfolio = 'src/jsm/static-portfolio.png';
@@ -57,7 +57,7 @@ URL.email = 'https://mailto:xfloyd.eth@gmail.com';
 URL.githubBagholder = 'https://velog.io/@kys/%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-CICD';
 URL.LinkedIn = 'https://www.linkedin.com/in/ys-k-38242831a/';
 // > bagholder Bets > poke face
-URL.githubHomeSweetHome = '';
+URL.githubHomeSweetHome = 'https://velog.io/@kys/%EA%B0%84%EC%82%AC%EC%9D%B4-%EA%B3%B5%ED%95%AD-%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF%E3%80%80%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88';
 // > kansai <予定
 
 
